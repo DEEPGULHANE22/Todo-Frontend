@@ -1,0 +1,28 @@
+.formsection{
+     border: 2px solid black;
+     width: 50%;
+    
+}
+
+.formsection form{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.formsection form input{
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.formsection form button{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(115, 164, 148);
+    width:50%;
+    margin: 20px 0px;
+    /* align-items: center; */
+  }

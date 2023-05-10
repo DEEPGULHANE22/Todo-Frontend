@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color:brown ;
+    padding: 20px 0px;
+}
+.navitems{
+    display: flex;
+
+}
+
+.navitem a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: large;
+    padding: 0px 20px;
+}
+.navitem button{
+    border: 2px solid grey;
+    color: white;
+    background-color: brown;
+    font-weight: 500;
+    font-size: large;
+    padding: 4px 20px;
+    margin: 0px 30px;
+}
